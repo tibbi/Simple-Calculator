@@ -92,7 +92,7 @@
     <string name="unit_time_hour">Hora</string>
     <string name="unit_time_minute">Minute</string>
     <string name="unit_time_second">Segundo</string>
-    <string name="unit_time_millisecond">Microsegundo</string>
+    <string name="unit_time_millisecond">Milisegundo</string>
     <string name="unit_time_day">Day</string>
     <string name="unit_time_week">Semana</string>
     <string name="unit_time_year">Año</string>

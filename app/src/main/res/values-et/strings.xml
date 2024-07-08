@@ -92,7 +92,7 @@
     <string name="unit_time_hour">Tund</string>
     <string name="unit_time_minute">Minute</string>
     <string name="unit_time_second">Sekund</string>
-    <string name="unit_time_millisecond">Mikrosekund</string>
+    <string name="unit_time_millisecond">Millisekund</string>
     <string name="unit_time_day">Day</string>
     <string name="unit_time_week">Nädal</string>
     <string name="unit_time_year">Aasta</string>

@@ -92,7 +92,7 @@
     <string name="unit_time_hour">Час</string>
     <string name="unit_time_minute">Minute</string>
     <string name="unit_time_second">Секунда</string>
-    <string name="unit_time_millisecond">Микросекунда</string>
+    <string name="unit_time_millisecond">Миллисекунда</string>
     <string name="unit_time_day">Day</string>
     <string name="unit_time_week">Неделя</string>
     <string name="unit_time_year">Год</string>

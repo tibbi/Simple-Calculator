@@ -92,7 +92,7 @@
     <string name="unit_time_hour">小時</string>
     <string name="unit_time_minute">分鐘</string>
     <string name="unit_time_second">秒</string>
-    <string name="unit_time_millisecond">微秒</string>
+    <string name="unit_time_millisecond">毫秒</string>
     <string name="unit_time_day">天</string>
     <string name="unit_time_week">週</string>
     <string name="unit_time_year">年</string>

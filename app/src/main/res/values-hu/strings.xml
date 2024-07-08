@@ -92,7 +92,7 @@
     <string name="unit_time_hour">Óra</string>
     <string name="unit_time_minute">Perc</string>
     <string name="unit_time_second">Másodperc</string>
-    <string name="unit_time_millisecond">Mikromásodperc</string>
+    <string name="unit_time_millisecond">Millimásodperc</string>
     <string name="unit_time_day">Nap</string>
     <string name="unit_time_week">Hét</string>
     <string name="unit_time_year">Év</string>

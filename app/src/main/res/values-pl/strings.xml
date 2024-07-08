@@ -92,7 +92,7 @@
     <string name="unit_time_hour">Godzina</string>
     <string name="unit_time_minute">Minuta</string>
     <string name="unit_time_second">Sekunda</string>
-    <string name="unit_time_millisecond">Mikrosekunda</string>
+    <string name="unit_time_millisecond">Milisekunda</string>
     <string name="unit_time_day">Dzień</string>
     <string name="unit_time_week">Tydzień</string>
     <string name="unit_time_year">Rok</string>

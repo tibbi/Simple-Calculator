@@ -92,7 +92,7 @@
     <string name="unit_time_hour">Timme</string>
     <string name="unit_time_minute">Minut</string>
     <string name="unit_time_second">Sekund</string>
-    <string name="unit_time_millisecond">Mikrosekund</string>
+    <string name="unit_time_millisecond">Millisekund</string>
     <string name="unit_time_day">Dag</string>
     <string name="unit_time_week">Vecka</string>
     <string name="unit_time_year">År</string>

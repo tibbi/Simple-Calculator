@@ -92,7 +92,7 @@
     <string name="unit_time_hour">Hodina</string>
     <string name="unit_time_minute">Minúta</string>
     <string name="unit_time_second">Sekunda</string>
-    <string name="unit_time_millisecond">Mikrosekunda</string>
+    <string name="unit_time_millisecond">Milisekunda</string>
     <string name="unit_time_day">Deň</string>
     <string name="unit_time_week">Týždeň</string>
     <string name="unit_time_year">Rok</string>

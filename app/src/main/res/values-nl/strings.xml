@@ -92,7 +92,7 @@
     <string name="unit_time_hour">Uur</string>
     <string name="unit_time_minute">Minuut</string>
     <string name="unit_time_second">Seconde</string>
-    <string name="unit_time_millisecond">Microseconde</string>
+    <string name="unit_time_millisecond">Millisecond</string>
     <string name="unit_time_day">Dag</string>
     <string name="unit_time_week">Week</string>
     <string name="unit_time_year">Jaar</string>
