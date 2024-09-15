@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Schlichter Rechner</string>
+    <string name="app_name">Einfacher Rechner</string>
     <string name="app_launcher_name">Rechner</string>ng&gt;
     <string name="scientific_calculator">Wissenschaftlicher Rechner</string>
     <string name="unit_converter">Einheitenumrechner</string>

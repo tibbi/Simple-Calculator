@@ -24,8 +24,8 @@
     <string name="unit_length_micrometer">Микрометр</string>
     <string name="unit_length_nanometer">Нанометр</string>
     <string name="unit_length_angstrom">Ангстрем</string>
-    <string name="unit_length_mile">Mile</string>
-    <string name="unit_length_yard">Yard</string>
+    <string name="unit_length_mile">Миля</string>
+    <string name="unit_length_yard">Ярд</string>
     <string name="unit_length_foot">Фут</string>
     <string name="unit_length_inch">Дюйм</string>
     <string name="unit_length_fathom">Морская сажень</string>
@@ -33,7 +33,7 @@
     <string name="unit_length_astronomical_unit">Астрономическая единица</string>
     <string name="unit_length_parsec">Парсек</string>
     <string name="unit_length_light_year">Световой год</string>
-    <string name="unit_area">Area</string>
+    <string name="unit_area">Площадь</string>
     <string name="unit_area_square_kilometer">Квадратный километр</string>
     <string name="unit_area_square_meter">Квадратный метр</string>
     <string name="unit_area_square_centimeter">Квадратный сантиметр</string>
@@ -42,9 +42,9 @@
     <string name="unit_area_square_yard">Квадратный ярд</string>
     <string name="unit_area_square_foot">Квадратный фут</string>
     <string name="unit_area_square_inch">Квадратный дюйм</string>
-    <string name="unit_area_acre">Acre</string>
+    <string name="unit_area_acre">Акр</string>
     <string name="unit_area_hectare">Гектар</string>
-    <string name="unit_volume">Volume</string>
+    <string name="unit_volume">Объём</string>
     <string name="unit_volume_cubic_meter">Кубический метр</string>
     <string name="unit_volume_cubic_decimeter">Кубический дециметр</string>
     <string name="unit_volume_cubic_centimeter">Кубический сантиметр</string>
@@ -74,10 +74,10 @@
     <string name="unit_mass_milligram">Миллиграмм</string>
     <string name="unit_mass_microgram">Микрограмм</string>
     <string name="unit_mass_tonne">Тонна</string>
-    <string name="unit_mass_pound">Pound</string>
+    <string name="unit_mass_pound">Фунт</string>
     <string name="unit_mass_ounce">Унция</string>
     <string name="unit_mass_grain">Гран</string>
-    <string name="unit_mass_dram">Dram</string>
+    <string name="unit_mass_dram">Драм</string>
     <string name="unit_mass_stone">Стон</string>
     <string name="unit_mass_long_ton">Длинная тонна</string>
     <string name="unit_mass_short_ton">Короткая тонна</string>
@@ -90,15 +90,15 @@
     <string name="unit_temperature_kelvin">Кельвин</string>
     <string name="unit_time">Время</string>
     <string name="unit_time_hour">Час</string>
-    <string name="unit_time_minute">Minute</string>
+    <string name="unit_time_minute">Минута</string>
     <string name="unit_time_second">Секунда</string>
     <string name="unit_time_millisecond">Микросекунда</string>
-    <string name="unit_time_day">Day</string>
+    <string name="unit_time_day">День</string>
     <string name="unit_time_week">Неделя</string>
     <string name="unit_time_year">Год</string>
     <!-- FAQ -->
-    <string name="faq_1_title">Как работает кнопка C (Очистка)\?</string>
-    <string name="faq_1_text">Нажатие на неё удалит один символ. Долгое нажатие сбросит все поля сразу.</string>
+    <string name="faq_1_title">Как работает кнопка [C] (Очистка)\?</string>
+    <string name="faq_1_text">Нажатие на неё удалит один символ. Долгое нажатие очистит все поля сразу.</string>
     <!--
         Haven't found some strings? There's more at
         https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res

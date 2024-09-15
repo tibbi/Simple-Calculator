@@ -24,8 +24,8 @@
     <string name="unit_length_micrometer">微米</string>
     <string name="unit_length_nanometer">纳米</string>
     <string name="unit_length_angstrom">埃</string>
-    <string name="unit_length_mile">Mile</string>
-    <string name="unit_length_yard">Yard</string>
+    <string name="unit_length_mile">英里</string>
+    <string name="unit_length_yard">码</string>
     <string name="unit_length_foot">英尺</string>
     <string name="unit_length_inch">英寸</string>
     <string name="unit_length_fathom">英寻</string>
@@ -33,7 +33,7 @@
     <string name="unit_length_astronomical_unit">天文单位</string>
     <string name="unit_length_parsec">秒差距</string>
     <string name="unit_length_light_year">光年</string>
-    <string name="unit_area">Area</string>
+    <string name="unit_area">面积</string>
     <string name="unit_area_square_kilometer">平方千米</string>
     <string name="unit_area_square_meter">平方米</string>
     <string name="unit_area_square_centimeter">平方厘米</string>
@@ -42,9 +42,9 @@
     <string name="unit_area_square_yard">平方码</string>
     <string name="unit_area_square_foot">平方英寸</string>
     <string name="unit_area_square_inch">平方英尺</string>
-    <string name="unit_area_acre">Acre</string>
+    <string name="unit_area_acre">英亩</string>
     <string name="unit_area_hectare">公顷</string>
-    <string name="unit_volume">Volume</string>
+    <string name="unit_volume">容积</string>
     <string name="unit_volume_cubic_meter">立方米</string>
     <string name="unit_volume_cubic_decimeter">立方分米</string>
     <string name="unit_volume_cubic_centimeter">立方厘米</string>
@@ -74,10 +74,10 @@
     <string name="unit_mass_milligram">毫克</string>
     <string name="unit_mass_microgram">微克</string>
     <string name="unit_mass_tonne">公吨</string>
-    <string name="unit_mass_pound">Pound</string>
+    <string name="unit_mass_pound">磅</string>
     <string name="unit_mass_ounce">盎司</string>
     <string name="unit_mass_grain">格令</string>
-    <string name="unit_mass_dram">Dram</string>
+    <string name="unit_mass_dram">打兰</string>
     <string name="unit_mass_stone">英石</string>
     <string name="unit_mass_long_ton">长吨</string>
     <string name="unit_mass_short_ton">短吨</string>
@@ -90,10 +90,10 @@
     <string name="unit_temperature_kelvin">开尔文</string>
     <string name="unit_time">时间</string>
     <string name="unit_time_hour">小时</string>
-    <string name="unit_time_minute">Minute</string>
+    <string name="unit_time_minute">分钟</string>
     <string name="unit_time_second">秒</string>
     <string name="unit_time_millisecond">微秒</string>
-    <string name="unit_time_day">Day</string>
+    <string name="unit_time_day">天</string>
     <string name="unit_time_week">周</string>
     <string name="unit_time_year">年</string>
     <!-- FAQ -->

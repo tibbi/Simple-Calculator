@@ -3,8 +3,8 @@
     <string name="app_name">Simple Calculator</string>
     <string name="app_launcher_name">Kalkulator</string>
     <string name="scientific_calculator">Kalkulator Sains</string>
-    <string name="unit_converter">Unit converter</string>
-    <string name="swap_units">Swap units</string>
+    <string name="unit_converter">Konverter unit</string>
+    <string name="swap_units">Tukar unit</string>
     <!-- Calculator field -->
     <string name="formula_divide_by_zero_error">Kesalahan: pembagian dengan nol</string>
     <!-- History -->
@@ -16,27 +16,27 @@
     <string name="vibrate_on_button_press">Getar saat tombol ditekan</string>
     <string name="use_comma_as_decimal_mark">Gunakan koma sebagai tanda desimal</string>
     <!-- Unit converter -->
-    <string name="unit_length">Length</string>
+    <string name="unit_length">Panjang</string>
     <string name="unit_length_kilometer">Kilometer</string>
     <string name="unit_length_meter">Meter</string>
-    <string name="unit_length_centimeter">Centimeter</string>
+    <string name="unit_length_centimeter">Sentimeter</string>
     <string name="unit_length_millimeter">Millimeter</string>
-    <string name="unit_length_micrometer">Micrometer</string>
+    <string name="unit_length_micrometer">Mikrometer</string>
     <string name="unit_length_nanometer">Nanometer</string>
     <string name="unit_length_angstrom">Angstrom</string>
     <string name="unit_length_mile">Mile</string>
     <string name="unit_length_yard">Yard</string>
-    <string name="unit_length_foot">Foot</string>
-    <string name="unit_length_inch">Inch</string>
+    <string name="unit_length_foot">Kaki</string>
+    <string name="unit_length_inch">Inci</string>
     <string name="unit_length_fathom">Fathom</string>
-    <string name="unit_length_nautical_mile">Nautical Mile</string>
-    <string name="unit_length_astronomical_unit">Astronomical Unit</string>
+    <string name="unit_length_nautical_mile">Nautical Mil</string>
+    <string name="unit_length_astronomical_unit">Unit Astronomi</string>
     <string name="unit_length_parsec">Parsec</string>
-    <string name="unit_length_light_year">Light Year</string>
+    <string name="unit_length_light_year">Tahun Cahaya</string>
     <string name="unit_area">Area</string>
-    <string name="unit_area_square_kilometer">Square Kilometer</string>
-    <string name="unit_area_square_meter">Square Meter</string>
-    <string name="unit_area_square_centimeter">Square Centimeter</string>
+    <string name="unit_area_square_kilometer">Kilometer persegi</string>
+    <string name="unit_area_square_meter">Meter persegi</string>
+    <string name="unit_area_square_centimeter">Sentimeter Persegi</string>
     <string name="unit_area_square_millimeter">Square Millimeter</string>
     <string name="unit_area_square_mile">Square Mile</string>
     <string name="unit_area_square_yard">Square Yard</string>

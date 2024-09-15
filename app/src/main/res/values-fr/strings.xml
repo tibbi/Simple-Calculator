@@ -16,7 +16,7 @@
     <string name="vibrate_on_button_press">Vibrer lors de l\'appui sur une touche</string>
     <string name="use_comma_as_decimal_mark">Utiliser la virgule comme séparateur décimal</string>
     <!-- Unit converter -->
-    <string name="unit_length">Unités de longueur</string>
+    <string name="unit_length">Longueur</string>
     <string name="unit_length_kilometer">Kilomètre</string>
     <string name="unit_length_meter">Mètre</string>
     <string name="unit_length_centimeter">Centimètre</string>
@@ -30,10 +30,10 @@
     <string name="unit_length_inch">Pouce</string>
     <string name="unit_length_fathom">Brasse</string>
     <string name="unit_length_nautical_mile">Mille marin</string>
-    <string name="unit_length_astronomical_unit">Unités astronomiques</string>
+    <string name="unit_length_astronomical_unit">Unité astronomique</string>
     <string name="unit_length_parsec">Parsec</string>
     <string name="unit_length_light_year">Année-lumière</string>
-    <string name="unit_area">Unités de surface</string>
+    <string name="unit_area">Surface</string>
     <string name="unit_area_square_kilometer">Kilomètre carré</string>
     <string name="unit_area_square_meter">Mètre carré</string>
     <string name="unit_area_square_centimeter">Centimètre carré</string>
@@ -44,7 +44,7 @@
     <string name="unit_area_square_inch">Pouce carré</string>
     <string name="unit_area_acre">Acre</string>
     <string name="unit_area_hectare">Hectare</string>
-    <string name="unit_volume">Unités de volume</string>
+    <string name="unit_volume">Volume</string>
     <string name="unit_volume_cubic_meter">Mètre cube</string>
     <string name="unit_volume_cubic_decimeter">Décimètre cube</string>
     <string name="unit_volume_cubic_centimeter">Centimètre cube</string>
@@ -68,7 +68,7 @@
     <string name="unit_volume_pint_imperial">Pinte impériale britannique</string>
     <string name="unit_volume_gill_imperial">Gille impériale britannique</string>
     <string name="unit_volume_fluid_ounce_imperial">Once liquide impériale britannique</string>
-    <string name="unit_mass">Unités de masse</string>
+    <string name="unit_mass">Masse</string>
     <string name="unit_mass_gram">Gramme</string>
     <string name="unit_mass_kilogram">Kilogramme</string>
     <string name="unit_mass_milligram">Milligramme</string>
@@ -83,12 +83,12 @@
     <string name="unit_mass_short_ton">Tonne courte coutumière américaine</string>
     <string name="unit_mass_carat">Carat</string>
     <string name="unit_mass_carat_metric">Carat (métrique)</string>
-    <string name="unit_temperature">Unités de température</string>
+    <string name="unit_temperature">Température</string>
     <string name="unit_temperature_celsius">Celsius</string>
     <string name="unit_temperature_fahrenheit">Fahrenheit</string>
     <string name="unit_temperature_rankine">Rankine</string>
     <string name="unit_temperature_kelvin">Kelvin</string>
-    <string name="unit_time">Unités de temps</string>
+    <string name="unit_time">Temps</string>
     <string name="unit_time_hour">Heure</string>
     <string name="unit_time_minute">Minute</string>
     <string name="unit_time_second">Seconde</string>
