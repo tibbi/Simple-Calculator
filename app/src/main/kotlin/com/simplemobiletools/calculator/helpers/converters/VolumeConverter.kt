@@ -43,20 +43,20 @@ object VolumeConverter : Converter {
             key = "Liter"
         )
 
-        data object Centiliter : Unit(
-            nameResId = R.string.unit_volume_centiliter,
-            symbolResId = R.string.unit_volume_centiliter_symbol,
-            factor = 0.0001,
-            key = "Centiliter"
-        )
-
         data object Deciliter : Unit(
             nameResId = R.string.unit_volume_deciliter,
             symbolResId = R.string.unit_volume_deciliter_symbol,
-            factor = 0.00001,
+            factor = 0.0001,
             key = "Deciliter"
         )
 
+        data object Centiliter : Unit(
+            nameResId = R.string.unit_volume_centiliter,
+            symbolResId = R.string.unit_volume_centiliter_symbol,
+            factor = 0.00001,
+            key = "Centiliter"
+        )
+        
         data object Milliliter : Unit(
             nameResId = R.string.unit_volume_milliliter,
             symbolResId = R.string.unit_volume_milliliter_symbol,
